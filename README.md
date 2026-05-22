@@ -15,7 +15,7 @@
 
 </div>
 
-## sobre_mim.exe
+## sobre mim
 
 Sou um dev que gosta de pegar ideia que parece grande demais e transformar em projeto funcionando.
 Curto especialmente:
@@ -29,7 +29,7 @@ Curto especialmente:
 > [!TIP]
 > Eu provavelmente estou construindo alguma coisa, quebrando alguma coisa ou aprendendo como não quebrar de novo.
 
-## projetos_que_me_representam
+## projetos
 
 <a href="https://github.com/SudreScodeS/Elitium-ERP">
   <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=SudreScodeS&repo=Elitium-ERP&show_owner=true&theme=tokyonight&hide_border=true&border_radius=12" />
@@ -41,7 +41,7 @@ Curto especialmente:
   <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Matheus2sd&repo=Aula-1---Iniciando-com-a-Godot&theme=tokyonight&hide_border=true&border_radius=12" />
 </a>
 
-## arsenal_do_caos_controlado
+## Linguagens
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=3178C6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -52,7 +52,7 @@ Curto especialmente:
 ![Node.js](https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)
 ![Godot](https://img.shields.io/badge/Godot-111827?style=for-the-badge&logo=godotengine&logoColor=478CBF)
 
-## stats_que_ajudam_a_contar_a_historia
+## stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Matheus2sd&show_icons=true&include_all_commits=true&locale=pt-br&theme=tokyonight&hide_border=true&border_radius=12" />
